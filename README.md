@@ -19,7 +19,7 @@ Use the filter text box at the top of the command list to easily find the comman
 ## Inspect mode
 This checkbox allows you to point at any command in any menu, toolbar or context menu to select it.
 
-Once enabled, you can now **CTRL+Shift+Left-Click** any command and it will select the command you clicked on in the command list.
+Once enabled, you can  **CTRL+Shift+Left-Click** any command and it will select the command you clicked on in the command list.
 
 ## License
 [Apache 2.0](LICENSE) 
